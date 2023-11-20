@@ -37,7 +37,7 @@
     "javascript-time-ago": "^2.5.9",
     "mdx-bundler": "^9.0.1",
     "next": "^13",
-    "next-auth": "^4.22.1",
+    "next-auth": "^4.24.5",
     "next-mdx-remote": "^4.4.1",
     "next-themes": "^0.2.0",
     "octokit": "^2.1.0",
